@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(139, 139, 196);
+    margin-top: 40px;
+    margin-left: 400px;
+  }
+  
+  .title {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(213, 100, 25);
+    background-color:  rgb(35, 52, 35);
+    margin-left: 0px;
+    margin-bottom: 50px;
+    margin-right: 550px;
+    padding: 4px;
+    border-radius: 20px;
+  }
